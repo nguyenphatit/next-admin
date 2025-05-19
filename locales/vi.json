@@ -9,5 +9,21 @@
       "learnMore": "Learn more",
       "examples": "Examples",
       "goToNextjsOrg": "Go to nextjs.org"
+    },
+    "Login": {
+        "title": "Đăng nhập",
+        "description": "Đăng nhập vào tài khoản của bạn",
+        "signInWithGitHub": "Đăng nhập với GitHub"
+    },
+    "Sidebar": {
+        "dashboard": "Trang chủ",
+        "profile": "Hồ sơ",
+        "settings": "Cài đặt",
+        "logout": "Đăng xuất"
+    },
+    "Theme": {
+        "dark": "Tối",
+        "light": "Sáng",
+        "system": "Hệ thống"
     }
 }

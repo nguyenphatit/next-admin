@@ -9,5 +9,21 @@
       "learnMore": "Learn more",
       "examples": "Examples",
       "goToNextjsOrg": "Go to nextjs.org"
+    },
+    "Login": {
+        "title": "Login",
+        "description": "Sign in to your account",
+        "signInWithGitHub": "Sign in with GitHub"
+    },
+    "Sidebar": {
+        "dashboard": "Dashboard",
+        "profile": "Profile",
+        "settings": "Settings",
+        "logout": "Logout"
+    },
+    "Theme": {
+        "dark": "Dark",
+        "light": "Light",
+        "system": "System"
     }
 }
